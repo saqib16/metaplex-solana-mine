@@ -1,1 +1,0 @@
-# metaplex-solana-mine
